@@ -1,0 +1,6 @@
+.contentCard{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+
+}
