@@ -38,11 +38,11 @@ input{
 }
 
 .card{
-    background-color:  #A5C9CA;
+  
     display: flex;
     justify-content: center;
-    flex-direction: row;
     margin-top: 20px;
     width: 100%;
-    border-radius: 10px 5px 10px 5px;
+    gap: 20px;
+    flex-direction: column;
 }
